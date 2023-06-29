@@ -164,9 +164,8 @@ def clear():
 	os.system('clear')
 #------------------[ LOGO-LAKNAT ]-----------------#
 def banner():
-	cetak(panel(f"""[bold green]                ___  ____ ____ _   _ ____ _  _ _  _ _  _ 
-[bold green]                |__] |__/ |__|  \_/  |___ |\ | |\ | |\ | 
-[bold green]                |__] |  \ |  |   |   |___ | \| | \| | \|                                                                                                        
+	cetak(panel(f"""[bold green] 🆁🅴🆂🅺🆈𒆜🆇🅳               
+[bold green]                                                                                                           
              """,width=90,padding=(0,8),title=f"Banner",style=f"bold white"))
 #--------------------[ BAGIAN-MASUK ]--------------#
 def login123():
